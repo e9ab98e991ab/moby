@@ -3,5 +3,7 @@ bundles
 vendor/pkg
 .go-pkg-cache
 .git
+.gogradle
+.gradle
 hack/integration-cli-on-swarm/integration-cli-on-swarm
 

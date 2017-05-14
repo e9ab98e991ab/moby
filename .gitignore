@@ -12,6 +12,8 @@
 .editorconfig
 .gopath/
 .go-pkg-cache/
+.gogradle/
+.gradle/
 autogen/
 bundles/
 cmd/dockerd/dockerd
