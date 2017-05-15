@@ -1,6 +1,6 @@
 # Build Docker with Gradle 
 
-This is an experimental project for building docker by gradle, whose goal is to verify [`Gogradle`](https://github.com/gogradle/gogradle)'s capability, thus there are some notices:
+This is an experimental project for building docker by gradle. Its goal is to verify [`Gogradle`](https://github.com/gogradle/gogradle)'s capability, thus there are some notices:
 
 - This is not a production-ready project.
 - To satisfy `Gogradle`, a JDK 8+ should be pre-installed.
